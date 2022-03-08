@@ -8,9 +8,12 @@
 - Get an interaction with Abrar Sir
 - Hands-on in if-else statements
 
+
 # Links Read 
 https://www.geeksforgeeks.org/taking-input-in-python/
 
 
 # Second Half 
 - Targeting to complete the Loops topic
+- Watch some video of for loop(udemy,Navin reddy_telusko)
+- Handson for loop
