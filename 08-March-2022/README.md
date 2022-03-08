@@ -22,4 +22,6 @@
 
 
 # Second Half 
+
 - List comprehension -- in progress....
+- Try some questions of List comprehension 
