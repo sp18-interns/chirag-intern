@@ -11,6 +11,8 @@
 
 # Links Read 
 https://www.geeksforgeeks.org/taking-input-in-python/
+https://www.youtube.com/watch?v=0ZvaDa8eT5s (for loop)
+https://www.youtube.com/watch?v=HZARImviDxg (While loop)
 
 
 # Second Half 
