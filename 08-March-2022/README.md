@@ -22,4 +22,4 @@
 
 
 # Second Half 
--
+- List comprehension -- in progress....
