@@ -9,7 +9,7 @@
 - Hands-on in for,while loops
 
 
-# Links Read 
+## Links Read 
    https://www.youtube.com/watch?v=0ZvaDa8eT5s (for loop by naveen reddy) -- Completed
 
    https://www.youtube.com/watch?v=HZARImviDxg (While loop by naveen reddy) -- completed
@@ -21,7 +21,7 @@
 
 
 
-# Second Half 
+## Second Half 
 
 - List comprehension -- in progress....
 - Try some questions of List comprehension 
