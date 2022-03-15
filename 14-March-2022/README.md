@@ -1,5 +1,3 @@
-# chirag-intern
-
 # Date 14-March-2022
 
 
