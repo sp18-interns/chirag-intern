@@ -6,10 +6,9 @@
 
 - Topic:
 
-1. Inheritance and Polymorphism,
-2. Special (MagicDunder) Methods
-
-3. [Read some documentation](https://realpython.com/instance-class-and-static-methods-demystified/#:~:text=Instance%20methods%20need%20a%20class,access%20to%20cls%20or%20self%20)
+  - Inheritance and Polymorphism,
+  - Special (MagicDunder) Methods
+  - [Read some documentation](https://realpython.com/instance-class-and-static-methods-demystified/#:~:text=Instance%20methods%20need%20a%20class,access%20to%20cls%20or%20self%20)
 
 ### Videos
 
@@ -22,14 +21,6 @@
 - ✅ 067 Object Oriented Programming - Challenge Overview -- Completed
 
 - ✅ 068 Object Oriented Programming - Challenge Solution -- Completed
-
-  <hr>
-  Modules and Packages:
-  <hr>
-
-- ✅ 069 Pip Install and PyPi -- Completed
-
-- 🔄 070 Modules and Packages --Inprogress
 
 ### Assignment
 
@@ -61,17 +52,36 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 - https://realpython.com/instance-class-and-static-methods-demystified/#:~:text=Instance%20methods%20need%20a%20class,access%20to%20cls%20or%20self%20
 
+<hr>
+<hr>
 ### Second Half
 
-Topic:
+- Topic:
 
-- Modules and Packages
-- [Try To solve Questions from pynative.com ](https://pynative.com/python-object-oriented-programming-oop-exercise/)
+  - Modules and Packages
+  - [Try To solve Questions from pynative.com ](https://pynative.com/python-object-oriented-programming-oop-exercise/)
 
-- [Read some documentation](https://realpython.com/instance-class-and-static-methods-demystified/#:~:text=Instance%20methods%20need%20a%20class,access%20to%20cls%20or%20self%20)
+  - [Read some documentation](https://realpython.com/instance-class-and-static-methods-demystified/#:~:text=Instance%20methods%20need%20a%20class,access%20to%20cls%20or%20self%20)
 
-##### Modules and Packages:
+### Videos
+
+  <hr>
+  Topic : Modules and Packages:
+  <hr>
 
 - ✅ 069 Pip Install and PyPi -- Completed
 
 - 🔄 070 Modules and Packages --Inprogress
+
+### Assignment
+
+- Create a Bankaccount
+- Practicing Various code through pynative site
+
+### Doubts
+
+- Nothing as of now
+
+### Links Read
+
+- N/A
