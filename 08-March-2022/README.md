@@ -1,20 +1,25 @@
 # chirag-intern
 
-## <Date 08-March-2022>
+## Date 08-March-2022
+
+<hr>
+<hr>
 
 ### First Half
 
-- watch some more videos on  topic for,While loop
+- watch some more videos on topic for,While loop
 - Get an interaction with Abrar Sir
 - Hands-on in for,while loops
+<hr>
 
 ### Videos
 
-- List Comprehensions in Python(udemy) -- Completed
+- ✅List Comprehensions in Python(udemy) -- Completed
 
-- https://www.youtube.com/watch?v=0ZvaDa8eT5s (for loop by naveen reddy) -- Completed 
+- ✅[for loop by naveen reddy](https://www.youtube.com/watch?v=0ZvaDa8eT5s) -- Completed
 
--  https://www.youtube.com/watch?v=HZARImviDxg (While loop by naveen reddy) -- Completed
+- ✅[While loop by naveen reddy](https://www.youtube.com/watch?v=HZARImviDxg) -- Completed
+<hr>
 
 ### Assignment
 
@@ -22,25 +27,47 @@
 List Comprehension
 Declare a list = ["abu","Abrar",'yash","Yash","parag","Parag"]
 Output :- [3,5,4,4,5,5]
-Output :- {"abu:"3,"Abrar":5,"yash":4,"Yash":4,"parag":5,"Parag":5}    -- Completed
+Output :- {"abu:"3,"Abrar":5,"yash":4,"Yash":4,"parag":5,"Parag":5} -- Completed
+<hr>
 
+### Doubts
 
-### Links Read  
+- N/A
 
-   https://www.w3schools.com/python/python_lists_comprehension.asp(List Comprehension)
-   
-   https://www.youtube.com/watch?v=0ZvaDa8eT5s (for loop by naveen reddy) 
+<hr>
 
-   https://www.youtube.com/watch?v=HZARImviDxg (While loop by naveen reddy) 
+### Links Read
 
+- [List Comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
+- [for loop by naveen reddy](https://www.youtube.com/watch?v=0ZvaDa8eT5s)
 
-   Python Statements  -- Completed
+- [While loop by naveen reddy](https://www.youtube.com/watch?v=HZARImviDxg)
 
-   for , While loop   -- Completed
+<hr>
+<hr>
 
+### Second Half
 
+<hr>
 
-### Second Half 
+### Videos
 
-- List comprehension -- in progress....Completed
-- Try some questions of List comprehension 
+- N/A
+<hr>
+
+### Assignment
+
+- Make a Calculator by using if,elif,else statement
+
+- Try some questions of List comprehension
+<hr>
+
+### Doubts
+
+- N/A
+
+<hr>
+
+### Links Read
+
+- N/A
