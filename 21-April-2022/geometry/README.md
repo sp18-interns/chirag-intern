@@ -1,0 +1,27 @@
+# Geometry
+
+- Graph
+  - Axes - X axis (+/-) & Y axis (+/-)
+  - Quadrants
+    - First: `(x: +, y: +)`
+    - Second: `(x: -, y: +)`
+    - Third: `(x: -, y: -)`
+    - Fourth: `(x: +, y: -)`
+- Point
+  - Representation (Design solution in such as way that representation can change)
+    - Cartesian: `x, y`
+    - Polar: `point, angle` # TBD
+  - Belonging
+    - exists on either of `axes`
+    - exists within a `quadrant`
+  - There's a special point - `origin`
+    - it's represented in cartesian as - `Origin: (0, 0)`
+  - Updates to existing point
+    - Label change
+    - Movement from one location to another
+  - Distance of a point from origin
+  - Distance of point from another point
+- Lines # TBD
+  - Slope
+- Shapes # TBD
+- Curves # TBD
