@@ -8,7 +8,7 @@
 
 - StandUp call with Team
 
-- 🔄
+- 🔄Designing Graph Plot using Object Oriented Programming : In Progress
 
 ### Videos
 
@@ -16,14 +16,19 @@
 
 ### Assignment
 
-- ✅
+- ✅Added three new methods in the graph assignment to calcluate distance between points named as
+  ```
+  1. distance_from_coordinate_of_point
+  2. distance_from_point_object
+  3. distance_from_origin
+  ```
 
 ### Doubts
 
 - Problem in Pycharm Docstring format [Epytext] Pycharm does not auto-create documentation stubs.
 
 ```
-  - Solution: In order to solve this problem, I had to go into Settings -> Tools -> Python Integrated Tools and reset the docstring format. I did so by changing Docstring format from Epytext to Plain, clicking Apply, then changing it back to Epytext again and applying the change, and now everything works.
+---> Solution: In order to solve this problem, I had to go into Settings -> Tools -> Python Integrated Tools and reset the docstring format. I did so by changing Docstring format from Epytext to Plain, clicking Apply, then changing it back to Epytext again and applying the change, and now everything works.
 ```
 
 ### Links Read
@@ -40,24 +45,25 @@
 
 ## Second Half
 
-- ✅
 - 🔄Designing Graph Plot using Object Oriented Programming : In Progress
+- Had a meet with Abrar Sir and Vishal sir and demonstrate the work .
+- Discussed with team about geometry assignment given by Vishal Sir
 
 ### Videos
 
--
+- N/A
 
 ### Assignment
 
--
+- N/A
 
 ### Doubts
 
--
+- N/A
 
 ### Links Read
 
-- N/A
+- Review geometry code in Java
 
 ### Link of Work Done
 
