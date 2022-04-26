@@ -39,10 +39,10 @@
 
 - Worked on building functions for Parking lot:
   - Added a metod named as:
-    - add_vehicle,
-    - remove_vehicle,
-    - vehicle_info,
-    - is_available
+    - ✅add_vehicle,
+    - ✅remove_vehicle,
+    - ✅vehicle_info,
+    - ✅is_available
 
 ### Doubts
 
