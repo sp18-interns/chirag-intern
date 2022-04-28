@@ -10,7 +10,7 @@ class Contact:
 
 
 class ContactBook:
-
+    # constructor
     def __init__(self):
         self._contacts = []
 
@@ -20,11 +20,14 @@ class ContactBook:
         self._save()
 
     def show_all(self):
-        for contact in self._contacts:
-            self._print_contact(contact)
+        if self._contacts == []:
+            self._not_found()
+        else:
+            for contact in self._contacts:
+                self._print_contact(contact)
 
     def delete(self, name):
-        # enumerate() iterea y provee indice
+
         for idx, contact in enumerate(self._contacts):
             if contact.name.lower() == name.lower():
                 del self._contacts[idx]
@@ -41,29 +44,26 @@ class ContactBook:
 
     def update(self, name):
         for contact in self._contacts:
-            # Se busca contacto en el arreglo
+
             if contact.name.lower() == name.lower():
                 self._print_contact(contact)
 
-                # Se elimina el contacto encontrado
                 for idx, contact in enumerate(self._contacts):
                     if contact.name.lower() == name.lower():
                         del self._contacts[idx]
 
-                # Ingreso de datos nuevos
                 print(' ')
                 print('UPDATE DATA')
                 name = str(input('Contact name: '))
                 phone = str(input('Contact phone : '))
                 email = str(input('Email: '))
 
-                # Se guardan los datos nuevos
                 contact = Contact(name, phone, email)
                 self._contacts.append(contact)
                 self._save()
                 break
         else:
-            # Muestra  mensaje si el contacto no fue encontrado
+
             self._not_found()
 
     def _save(self):
@@ -88,9 +88,7 @@ class ContactBook:
 
 
 def run():
-
     contact_book = ContactBook()
-
     with open('contacts.csv', 'r') as f:
         reader = csv.reader(f)
         for idx, row in enumerate(reader):
