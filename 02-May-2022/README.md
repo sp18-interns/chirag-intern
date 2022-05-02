@@ -7,11 +7,12 @@
 ## First Half
 
 - Stand-up call with Team
-- 🔄Read Documentaion given by Vishal Sir
+- 🔄Reading book (Learning Python - The Hard Way)
+  given by Vishal Sir
 
 ### Videos
 
-- N/A
+- 🚫None
 
 ### Assignment
 
@@ -43,22 +44,23 @@ salmon has- a mouth.”
 
 ### Doubts
 
-- N/A
+- 🚫Nothing as of now
 
 ### Links Read
 
-- N/A
+- 🚫None
 
 <hr>
 <hr>
 
 ## Second Half
 
-- 🔄Read Documentaion given by Vishal Sir
+- 🔄Reading book (Learning Python - The Hard Way)
+  given by Vishal Sir
 
 ### Videos
 
-- N/A
+- 🚫None
 
 ### Assignment
 
