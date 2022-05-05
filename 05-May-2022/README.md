@@ -17,11 +17,13 @@
 
 ### Assignment
 
-- Added Various methods in the Person Experience problem :
+- Person Experience Problem :-
+  - Define two classes in the problem named as Experience and Person
+    - In the class Person I declare various methods such as get_total_experience_in_years,get_total_experience_in_months,get_total_experience_in_days,add_experience,currently_in_which_company,currently_in_which_company
 
 ### Doubts
 
-- 🚫Nothing as of now
+- Problem in building logic for which_company_he_worked_most method :Solved
 
 ### Links Read
 
@@ -32,8 +34,7 @@
 
 ## Second Half
 
-- 🔄Reading book (LEARN PYTHON 3 THE HARD WAY)
-  given by Vishal Sir
+- 🔄
 
 ### Videos
 
