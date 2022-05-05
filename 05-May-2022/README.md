@@ -1,4 +1,4 @@
-# Date 04-May-2022
+# Date 05-May-2022
 
 ## chirag-intern
 
@@ -46,7 +46,7 @@
 
 - ✅Make a Swastik pattern given by Avinash Sir
 - 🔄Had a session with avinash sir on SQL basics:-
-  - Topics that covered : Insert ,Delete, Create,Select, DDL,DML,DCL
+  - Topics that covered : Insert ,Delete,Alter,Drop Create,Select, DDL,DML,DCL
 
 ### Doubts
 
