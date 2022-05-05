@@ -34,7 +34,9 @@
 
 ## Second Half
 
-- 🔄
+- ✅Make a Swastik pattern given by Avinash Sir
+- 🔄Had a session with avinash sir on SQL basics:-
+  - Topics that covered : Insert ,Delete, Create,Select, DDL,DML,DCL
 
 ### Videos
 
@@ -42,7 +44,9 @@
 
 ### Assignment
 
-- 🔄
+- ✅Make a Swastik pattern given by Avinash Sir
+- 🔄Had a session with avinash sir on SQL basics:-
+  - Topics that covered : Insert ,Delete, Create,Select, DDL,DML,DCL
 
 ### Doubts
 
@@ -50,4 +54,5 @@
 
 ### Links Read
 
-- []()
+- [datetime](https://www.programiz.com/python-programming/datetime)
+- [isinstance() Function](https://www.w3schools.com/python/ref_func_isinstance.asp)
