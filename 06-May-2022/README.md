@@ -1,4 +1,4 @@
-# Date 05-May-2022
+# Date 06-May-2022
 
 ## chirag-intern
 
@@ -6,10 +6,9 @@
 
 ## First Half
 
-- 🔄Reading book (Learning Python-3.0 - The Hard Way)
-  given by Vishal Sir : In progress
+- Stand-up call with team
 
-- 🔄Start Solving Person Experience given by Abrar Sir and Vishal Sir : In progress
+- 🔄Start Solving problem : Convert integer to binary number and 1's and 2's complement given by Abrar Sir : In progress
 
 ### Videos
 
@@ -17,13 +16,11 @@
 
 ### Assignment
 
-- Person Experience Problem :-
-  - Define two classes in the problem named as Experience and Person
-    - In the class Person I declare various methods such as get_total_experience_in_years,get_total_experience_in_months,get_total_experience_in_days,add_experience,currently_in_which_company,currently_in_which_company
+- 🔄Start Solving problem : Convert integer to binary number and 1's and 2's complement given by Abrar Sir : In progress
 
 ### Doubts
 
-- Problem in building logic for which_company_he_worked_most method :Solved
+- 🚫Nothing as of now
 
 ### Links Read
 
@@ -34,9 +31,9 @@
 
 ## Second Half
 
-- ✅Make a Swastik pattern given by Avinash Sir
-- 🔄Had a session with avinash sir on SQL basics:-
-  - Topics that covered : Insert ,Delete, Create,Select, DDL,DML,DCL
+- ✅Start Solving problem : Convert integer to binary number and 1's and 2's complement given by Abrar Sir : In progress
+- Had a session with avinash sir on SQL Installation.
+- Discussion session with Prateek Sir
 
 ### Videos
 
@@ -44,9 +41,8 @@
 
 ### Assignment
 
-- ✅Make a Swastik pattern given by Avinash Sir
-- 🔄Had a session with avinash sir on SQL basics:-
-  - Topics that covered : Insert ,Delete,Alter,Drop Create,Select, DDL,DML,DCL
+- ✅Start Solving problem : Convert integer to binary number and 1's and 2's complement given by Abrar Sir : In progress
+- Had a session with avinash sir on SQL Installation.
 
 ### Doubts
 
@@ -54,5 +50,5 @@
 
 ### Links Read
 
-- [datetime](https://www.programiz.com/python-programming/datetime)
-- [isinstance() Function](https://www.w3schools.com/python/ref_func_isinstance.asp)
+- https://ncalculators.com/digital-computation/1s-2s-complement-calculator.htm
+- splashlearn.com/math-vocabulary/decimals/decimal
