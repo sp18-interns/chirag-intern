@@ -46,7 +46,7 @@
 
 ### Doubts
 
-- 🚫Nothing as of now
+- git checkout branch_name error: pathspec 'Problem' did not match any file(s) known to git : Solved
 
 ### Links Read
 
