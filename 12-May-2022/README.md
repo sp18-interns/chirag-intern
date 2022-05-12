@@ -37,8 +37,28 @@
 
 ## Second Half
 
-- 🔄Start session on SQL by Avinash sir.
-- ✅Solved Hackerrank question
+- 🔄Start session on SQL by Avinash sir:
+
+```
+1. DDL:
+(i) CREATE- to create a database and its objects like (table, index, views, store procedure, function, and triggers)
+
+(ii) ALTER - is used to add, delete, or modify columns in an existing table.
+
+(iii) DROP- delete objects from the database
+
+(iv)TRUNCATE- remove all records from a table, including all spaces allocated for the records are removed and reset the primary key also.
+
+2. DML:
+(i) SELECT -  retrieve data from a database
+
+(ii) INSERT-  insert data into a table
+
+(iii) UPDATE - updates existing data within a table
+
+(iv) DELETE- Delete all records from a database table
+
+```
 
 ### Videos
 
@@ -60,5 +80,3 @@
 ```
 A table can have only ONE primary key.
 ```
-
-- []()
