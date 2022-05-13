@@ -6,7 +6,8 @@
 
 ## First Half
 
-- Retrospective on Internship Performance
+- Standup call with team :Retrospective on Internship Performance
+- 🔄 SQL Basics Session : In Progress
 
 ### Videos
 
@@ -37,7 +38,16 @@
 
 ## Second Half
 
-- 🔄Start session on SQL by Avinash sir:
+- ✅Start session on SQL by Avinash sir
+- 🔄Read some documentation of SSMS
+
+### Videos
+
+- 🚫None
+
+### Assignment
+
+- ✅Start session on SQL by Avinash sir:
 
 ```
 1. DDL:
@@ -60,17 +70,27 @@
 
 ```
 
-### Videos
+- Topic that covered in the SQL session are:
 
-- 🚫None
+```
+- DDL,DML
+- where clause
+- order by
+- group by
+    - having clause
+- LTrim and RTrim
+- View
+- Procedure
+- Function
+    - Table value function
+    - Data value function
+```
 
-### Assignment
-
-- ✅Solved Hackerrank question
+- 🔄Read some documentation of SSMS
 
 ### Doubts
 
-- 🚫Nothing as of now
+- Due to different platform doesn't relate the syntax between them . Need more time to understand SQL platform and syntax .
 
 ### Links Read
 
