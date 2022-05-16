@@ -17,7 +17,7 @@
 ### Assignment
 
 - 🔄Handson OOPS PRACTICE : In Progress
-- 🔄START SOLVING HACKERRANK AND CODINGBAT PROBLEMS:IN PROGRESS
+- 🔄[START SOLVING HACKERRANK](https://github.com/sp18-interns/chirag-intern/tree/main/16-May-2022/HackerRank) AND [CODINGBAT PROBLEMS](https://github.com/sp18-interns/chirag-intern/tree/main/16-May-2022/Coding_Bat):IN PROGRESS
 
 - 🔄HackerRank Problem
 - 🔄 Coding_Bat Problem
@@ -42,8 +42,7 @@
 ### Assignment
 
 - ✅Revise and Hands on Map and filter concepts
-- 🔄HackerRank Problem
-- 🔄Coding_Bat Problem
+- 🔄[START SOLVING HACKERRANK](https://github.com/sp18-interns/chirag-intern/tree/main/16-May-2022/HackerRank) AND [CODINGBAT PROBLEMS](https://github.com/sp18-interns/chirag-intern/tree/main/16-May-2022/Coding_Bat):IN PROGRESS
 
 ### Doubts
 
