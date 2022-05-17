@@ -16,9 +16,9 @@ class SalesPerson:
         print(self.name, self.age, self.sales_amount)
 
 
-s1 = SalesPerson('Bob', 25)
-s2 = SalesPerson('Ted', 22)
-s3 = SalesPerson('Jack', 27)
+s1 = SalesPerson('chirag', 25)
+s2 = SalesPerson('mukesh', 22)
+s3 = SalesPerson('yash', 27)
 
 s1.make_sale(1000)
 s1.make_sale(1200)
