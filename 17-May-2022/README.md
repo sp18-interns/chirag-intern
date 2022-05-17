@@ -12,7 +12,8 @@
 
 ### Assignment
 
-- ✅Solved 1 question from hackerrank(find a String) - ✅Solved Coding_bat (bricks) question as discussed in standup
+- ✅Solved 1 question from hackerrank(find a String)
+- ✅Solved Coding_bat (bricks) question as discussed in standup
 - 🔄Start a OOPS Question based on the Mathematics fraction
 
 ### Doubts
