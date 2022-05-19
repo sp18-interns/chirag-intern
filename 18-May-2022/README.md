@@ -53,7 +53,26 @@
 
 ### Doubts
 
-- 🚫Nothing as of now
+- ✅fatal: Unable to create 'C:/Users/Hp/chirag-intern/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+
+- Use this command in bash to resolve:
+
+```
+- rm -f ./.git/index.lock
+
+-  cd .git
+- rm index.lockcd .git
+- touch index.lock
+- rm index.lock
+-  rm -f ./.git/index.lock
+- rm --force ./.git/index.lock
+```
 
 ### Links Read
 
