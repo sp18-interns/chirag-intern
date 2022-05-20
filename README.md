@@ -35,7 +35,6 @@
 - [Date 21-April-2022](https://github.com/sp18-interns/chirag-intern/tree/main/21-April-2022)
 - [Date 22-April-2022](https://github.com/sp18-interns/chirag-intern/tree/main/22-April-2022)
 - [Date 25-April-2022](https://github.com/sp18-interns/chirag-intern/tree/main/25-April-2022)
-
 - [Date 26-April-2022](https://github.com/sp18-interns/chirag-intern/tree/main/26-April-2022)
 - [Date 27-April-2022](https://github.com/sp18-interns/chirag-intern/tree/main/27-April-2022)
 - [Date 28-April-2022](https://github.com/sp18-interns/chirag-intern/tree/main/28-April-2022)
@@ -46,12 +45,10 @@
 - [Date 06-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/06-May-2022)
 - [Date 09-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/09-May-2022)
 - [Date 10-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/10-May-2022)
-
 - [Date 11-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/11-May-2022)
-
 - [Date 12-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/12-May-2022)
 - [Date 13-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/13-May-2022)
 - [Date 16-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/16-May-2022)
 - [Date 17-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/17-May-2022)
-- [Date 18-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/18-May-2022)4
+- [Date 18-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/18-May-2022)
 - [Date 19-May-2022](https://github.com/sp18-interns/chirag-intern/tree/main/19-May-2022)
