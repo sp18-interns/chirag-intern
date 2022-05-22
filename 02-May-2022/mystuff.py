@@ -51,56 +51,71 @@
 
 
 ## Animal is- a object (yes, sort of confusing) look at the extra credit
-class Animal(object):
-    pass
+# class Animal(object):
+#     pass
+#
+# ## ?? Inherit Dog class from Animal
+# class Dog(Animal):
+#     def __init__(self, name):
+#         ## ?? Instantiate name
+#         self.name = name
+#
+# ## ??Inherit Cat class from Animal
+# class Cat(Animal):
+#     def __init__(self, name):
+#         ## ?? Instantiate name
+#         self.name = name
+#
+# ## ?? Making an object named as Person
+# class Person(object):
+#     def __init__(self, name):
+#     ## ??
+#         self.name = name
+# ## Person has- a pet of some kind
+#         self.pet = None
+# ## ??Employee is inherinting from Person
+# class Employee(Person):
+#     def __init__(self, name, salary):
+# ## ?? hmm what is this strange magic?
+#         super(Employee, self).__init__(name)
+# ## ??
+#         self.salary = salary
+#
+# class Fish(object):
+#     pass
+# class Salmon(Fish):
+#     pass
+# class Halibut(Fish):
+#     pass
+# rover = Dog("Rover")
+# satan = Cat("Satan")
+# mary = Person("Mary")
+# mary.pet = satan
+# frank = Employee("Frank", 120000)
+#
+# ## ??
+# frank.pet = rover
+# ## ??
+# flipper = Fish()
+#
+#
+#
+# ## ??
+# crouse = Salmon()
+# ## ??
+# harry = Halibut()
 
-## ?? Inherit Dog class from Animal
-class Dog(Animal):
-    def __init__(self, name):
-        ## ?? Instantiate name
-        self.name = name
+class Engine:
+    def __init__(self,scene_map):
+        self.scene_map = scene_map
 
-## ??Inherit Cat class from Animal
-class Cat(Animal):
-    def __init__(self, name):
-        ## ?? Instantiate name
-        self.name = name
+    def play(self):
+        current_scene = self.scene_map.opening_scene()
+        last_scene = self.scene_map.next_scene('finished')
 
-## ?? Making an object named as Person
-class Person(object):
-    def __init__(self, name):
-    ## ??
-        self.name = name
-## Person has- a pet of some kind
-        self.pet = None
-## ??Employee is inherinting from Person
-class Employee(Person):
-    def __init__(self, name, salary):
-## ?? hmm what is this strange magic?
-        super(Employee, self).__init__(name)
-## ??
-        self.salary = salary
+        while current_scene != last_scene:
+            next_scene_name = current_scene.enter()
+            current_scene = self.scene_map.next_scene(next_scene_name)
 
-class Fish(object):
-    pass
-class Salmon(Fish):
-    pass
-class Halibut(Fish):
-    pass
-rover = Dog("Rover")
-satan = Cat("Satan")
-mary = Person("Mary")
-mary.pet = satan
-frank = Employee("Frank", 120000)
+            current_scene.enter()
 
-## ??
-frank.pet = rover
-## ??
-flipper = Fish()
-
-
-
-## ??
-crouse = Salmon()
-## ??
-harry = Halibut()

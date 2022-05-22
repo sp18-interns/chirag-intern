@@ -1,6 +1,6 @@
 # Problem 1's complement and 2's complement :
 
-n = 8
+n = 9
 
 
 a = []
@@ -21,19 +21,19 @@ for i in a:
     elif i == 1:
         print('0', end=' ')
 
-# for i in range(1):
-#     if a[-i] == 1:
-#         print('\n0', end = ' ')
+
+# for 2's Complement :
+
+# for i in a:
+# if a[0]==1:
+#     print('\n8')
+# if a[1]==1:
+#     print('\n4')
+# if a[2]==1:
+#     print('\n2')
+# if a[3]==1:
+#     print('\n1')
 
 
-
-# b = []
-# while (Num > 0):
-#     digit = Num % 2
-#     b.append(digit)
-#     Num = Num // 2
-# b.reverse()
-# for i in b:
-#     print(i, end=" ")
 
 

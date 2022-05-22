@@ -10,8 +10,4 @@ class Experience:
         self.is_present = is_present
 
     def __str__(self):
-        # if self.is_present == True :
-        #     self.end_date = datetime.datetime.now()
-        # else:
-        #     end_date = self.end_date
         return f"Working in {self.company_name} as {self.designation} from {self.start_date} to {self.end_date}"

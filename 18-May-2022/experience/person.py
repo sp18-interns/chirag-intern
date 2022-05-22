@@ -1,11 +1,11 @@
 import datetime
 
-from experience import Experience
+# from experience import Experience
 
 
 class Person:
 
-    def __init__(self, name,start_date,end_date):
+    def __init__(self, name):
         self.name = name
         self._list_of_experience = []
         self._total_experience_in_months = 0
@@ -23,6 +23,11 @@ class Person:
 
     def add_experience(self , Experience):
         self._list_of_experience.append(Experience)
+        if not Experience.is_present:
+            self._total_experience_in_days = self._total_experience_in_days + self._calculate_experience_days(Experience)
+        else:
+            delta = datetime.datetime.now() - Experience.start_date
+            self._total_experience_in_days = self._total_experience_in_days + delta.days
 
     def _calculate_experience_month(self, Experience):
         delta = Experience.end_date - Experience.start_date
@@ -50,7 +55,11 @@ class Person:
         return self._list_of_experience[0].company_name
 
     def which_company_he_worked_most(self):
-        pass
+        experience_per_company = dict()
+        for i in self._list_of_experience:
+            experience_per_company[i.company_name] = self._calculate_experience_days(i)
+        max_company = max(experience_per_company.values(),experience_per_company.keys())
+        return max_company
 
     def which_company_he_worked_least(self):
         pass
