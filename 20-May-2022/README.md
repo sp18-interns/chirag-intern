@@ -14,7 +14,7 @@
 
 - ✅Solved 1 question from hackerrank(Text_Alignment)
 - ✅Solved Coding_bat (round_sum) question
-- (nearest-value-list-python)[https://www.entechin.com/find-nearest-value-list-python/]
+- [nearest-value-list-python](https://www.entechin.com/find-nearest-value-list-python/)
 - 🔄Read the documentation given by vishal sir
 
 ### Doubts
