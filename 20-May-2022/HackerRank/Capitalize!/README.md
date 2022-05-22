@@ -1,3 +1,3 @@
 # Capitalize_Problem
 
-![Img!]('C:\Users\Hp\Pictures\Screenshots\Screenshot "550"')
+![Img!](Screenshot (550).png)
