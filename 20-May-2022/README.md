@@ -39,7 +39,7 @@
 - ✅Solved question from hackerrank(Capitalize!)
 - ✅Solved question from hackerrank(String_formatting)
 
-- (nearest-value-list-python)[https://www.entechin.com/find-nearest-value-list-python/]
+- [nearest-value-list-python](https://www.entechin.com/find-nearest-value-list-python/)
 
 - 🔄Python Object-Oriented Programming Exercise – Classes and Objects Exercises
 
