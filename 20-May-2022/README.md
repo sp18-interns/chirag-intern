@@ -23,7 +23,7 @@
 
 ### Links Read
 
-- (nearest-value-list-python)[https://www.entechin.com/find-nearest-value-list-python/]
+- [nearest-value-list-python](https://www.entechin.com/find-nearest-value-list-python/)
 
 <hr>
 <hr>
