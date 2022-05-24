@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
     chirag = Person("Chirag")
     # chirag.add_experience("Chirag")
-    # TODO :- Why do use _ before the name of function or the attribute.
+    # TODO :- Why do use _ before the name of function or the attribute.---> A single leading underscore in front of a variable, a function, or a method name means that these objects are used internally
     chirag.add_experience(exp1)
     chirag.add_experience(exp2)
     chirag.add_experience(exp3)

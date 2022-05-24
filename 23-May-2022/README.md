@@ -45,3 +45,4 @@
 ### Links Read
 
 - [Property decorator](https://www.youtube.com/watch?v=jCzT9XFZ5bw)
+- [What’s the Meaning of Single and Double Underscores](https://towardsdatascience.com/whats-the-meaning-of-single-and-double-underscores-in-python-3d27d57d6bd1#:~:text=A%20single%20leading%20underscore%20in,on%20another%20from%20another%20script.)
