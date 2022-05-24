@@ -9,17 +9,19 @@ if __name__ == '__main__':
     exp1 = Experience(start_date,end_date, 'SP18','intern', False)
 
 
-    start_date = datetime.datetime(2022, 1, 1)
+    start_date = datetime.datetime(2021, 1, 1)
     end_date = datetime.datetime(2022, 2, 2)
-    exp2 = Experience(start_date, end_date, "Amazon", "SD", False)
+    exp2 = Experience(start_date, end_date, "Amazon", "SDE", False)
 
-    start_date = datetime.datetime(2022, 3, 2)
-    end_date = datetime.datetime(2022, 8, 2)
+    start_date = datetime.datetime(2022, 2, 3)
+    end_date = datetime.datetime(2022, 5, 23)
     exp3 = Experience(start_date, end_date, "Google", "Backend Engineer", True)
 
 
 
     chirag = Person("Chirag")
+    # chirag.add_experience("Chirag")
+    # TODO :- Why do use _ before the name of function or the attribute.
     chirag.add_experience(exp1)
     chirag.add_experience(exp2)
     chirag.add_experience(exp3)
@@ -33,5 +35,11 @@ if __name__ == '__main__':
     print(exp1)
     print(exp2)
     print(exp3)
-    # print(f"Most worked company name is {chirag.which_company_he_worked_most()[1]} and {chirag.which_company_he_worked_most()[0]} days ")
-    # print(f"Least worked company name is {chirag.which_company_he_worked_least()[1]} and {chirag.which_company_he_worked_least()[0]} days ")
+    print('*' * 100)
+    print(f"Most worked company name is {chirag.which_company_he_worked_most()[1]} and working days is {chirag.which_company_he_worked_most()[0]} days ")
+    print('*' * 100)
+    print(f"Least worked company name is {chirag.which_company_he_worked_least()[1]} and working days is {chirag.which_company_he_worked_least()[0]} days ")
+    print('*' * 100)
+    print(f'Person is currently in {chirag.currently_in_which_company()} ')
+    print('*' * 100)
+    print(f'The first company of the person is :{chirag.first_company()}')
