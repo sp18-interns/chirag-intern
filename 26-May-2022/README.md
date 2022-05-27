@@ -1,4 +1,4 @@
-# Date 25-May-2022
+# Date 26-May-2022
 
 ## chirag-intern
 
@@ -12,10 +12,9 @@
 
 ### Assignment
 
-- ✅Solved question from hackerrank(Set .intersection() Operation)
+- ✅Solved question from hackerrank(Set .difference() Operation)
 
-- 🔄Start person experience problem with new approach
-- Present demo on SQL basics including DDL, DML commands
+- 🔄Start person experience problem 
 
 ### Doubts
 
@@ -23,9 +22,7 @@
 
 ### Links Read
 
-- [Calculate number of days between two dates](https://www.w3resource.com/python-exercises/python-basic-exercise-14.php)
-
-- [Python Difference Between Two Dates in Days](<https://pynative.com/python-difference-between-two-dates/#:~:text=Use%20the%20strptime(date_str%2C%20format,as%20per%20the%20corresponding%20format%20.&text=To%20get%20the%20difference%20between,result%20is%20a%20timedelta%20object.)>)
+- 🚫None
 
 <hr>
 <hr>
@@ -38,17 +35,10 @@
 
 ### Assignment
 
-- 🔄person experience problem added a function :num_of_days , get_total_experience_in_months In progress
-- Attended knowledge transfer session of Kunal Sir on working of recommendation engine.
-- ✅Handson SQL Join Query
-
-```
-1. INNER JOIN
-2. LEFT JOIN
-3. RIGHT JOIN
-```
-
-- Make a separate word file for JOIN Query
+- 🔄person experience problem added a function : In progress
+- ✅LEET CODE(palindrome Number): Done
+- Discuss with abrar sir about my problem person experience
+- Building Inheritance concept in my project
 
 ### Doubts
 
@@ -56,10 +46,6 @@
 
 ### Links Read
 
-- [SQL JOINS](https://www.w3schools.com/sql/sql_join.asp)
-- [What Is The PostgreSQL Equivalent To SQL Server NVARCHAR?](https://stackoverflow.com/questions/1245217/what-is-the-postgresql-equivalent-to-sql-server-nvarchar)
-- YOUTUBE TUTORIAL FOR SQL with handson practice:
+- [Super()](https://www.geeksforgeeks.org/python-super/)
+- [Inheritance](https://www.w3schools.com/python/python_inheritance.asp#:~:text=Inheritance%20allows%20us%20to%20define,class%2C%20also%20called%20derived%20class.)
 
-- > [SQL Server Management Studio (SSMS)](https://www.youtube.com/watch?v=Q8gBvsUjTLw&t=1411s)
-
-- > [SQL JOINS Tutorial for beginners | Practice SQL Queries using JOINS](https://www.youtube.com/watch?v=0OQJDd3QqQM)
