@@ -23,8 +23,8 @@
 
 - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
 
-- <hr>
-  <hr>
+<hr>
+<hr>
 
 ## Second Half
 
@@ -34,7 +34,7 @@
 
 ### Assignment
 
-- [Solve HackerRank problem(Collection.Counter())]()
+- [Solve HackerRank problem(Collection.Counter())](https://github.com/sp18-interns/chirag-intern/blob/main/31-May-2022/HackerRank/collections-counter-problem.png)
 
 - Prcatice Series from CSCI Series:
 
