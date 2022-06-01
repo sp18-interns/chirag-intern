@@ -41,7 +41,7 @@
   - Password
   - sort_example
 
-- Start Milestone Project from BootCamp Course
+- Start Milestone Project-1 from BootCamp Course
 
 ### Doubts
 
@@ -52,5 +52,7 @@
 - [Introduction to SQL Fundamentals](https://www.thoughtco.com/sql-fundamentals-1019780)
 
 - [Clone github repositry](https://www.jcchouinard.com/clone-github-repository-on-windows/)
+
+- [Datatypes in python](https://www.w3schools.com/python/python_datatypes.asp)
 
 - https://www.cs.rpi.edu/~sibel/csci1100/fall2017/class_notes/
