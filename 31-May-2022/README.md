@@ -36,7 +36,7 @@
 
 - [Solve HackerRank problem(Collection.Counter())](https://github.com/sp18-interns/chirag-intern/blob/main/31-May-2022/HackerRank/collections-counter-problem.png)
 
-- Prcatice Series from CSCI Series:
+- Practice Series from CSCI Series:
 
   - Password
   - sort_example
