@@ -15,7 +15,6 @@
 - Prepare for SQL Demo
 
 - Write Query on SQL Stored Procedure
-- Read Functions In SQL
 
 ### Doubts
 
@@ -25,12 +24,13 @@
 
 - [SQL Stored Procedure](https://www.w3schools.com/sql/sql_stored_procedures.asp)
 
-- https://www.youtube.com/watch?v=ygSCyyBFPgg
-
 <hr>
 <hr>
 
 ## Second Half
+
+- Presenting the SQL DEMO Session
+- Attend Knowledge sharing Session on topic Cloud computing by Sumit shukla
 
 ### Videos
 
@@ -38,10 +38,8 @@
 
 ### Assignment
 
-- Attend presentation of SQL
-- ✅Presentation of given assignment Person_experience
-- Read Python documents given by mentors
-- 🔄Practice on SQL
+- ✅ CSCI course read and practice lecture 8
+- ✅ Solve HackerRank problem on (collections named tuple)
 
 ### Doubts
 
@@ -49,7 +47,4 @@
 
 ### Links Read
 
-- https://www.educative.io/courses/learn-python-3-from-scratch
-
-- https://www.youtube.com/watch?v=ygSCyyBFPgg
-- https://www.cs.rpi.edu/~sibel/csci1100/fall2017/class_notes/
+- 🚫None
