@@ -12,7 +12,7 @@
 
 ### Assignment
 
-- ✅Solve HackerRank problem(Alphabet Rangoli)
+- [✅Solve HackerRank problem(Alphabet Rangoli)](https://github.com/sp18-interns/chirag-intern/blob/main/02-June-2022/HackerRank/alphabet-rangoli-problem.png)
 
 ### Doubts
 
@@ -50,7 +50,7 @@ print(f"The sum of {value1} and {value2} is: {result}")
 
 ### Assignment
 
-- ✅Solve HackerRank problem(Designer Door Mat)
+- [✅Solve HackerRank problem(Designer Door Mat)](https://github.com/sp18-interns/chirag-intern/blob/main/02-June-2022/HackerRank/designer-door-mat-problem.png)
 - 🔄Start Milestone project 1 handson add methods on it :
 
 ```
