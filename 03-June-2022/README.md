@@ -12,7 +12,16 @@
 
 ### Assignment
 
-- [✅Solve HackerRank problem(itertools.product()\_problem)]()
+- [✅Solve HackerRank problem(itertools.product()\_problem)](<https://github.com/sp18-interns/chirag-intern/blob/main/03-June-2022/HackerRank/itertools-product(%20)-problem.png>)
+
+- 🔄Working on Milestone project-1(Tic-Tac-Toe)
+
+```
+Add methods on it :
+- win_check
+- choose_first()
+- space_check()
+```
 
 ### Doubts
 
@@ -20,9 +29,7 @@
 
 ### Links Read
 
--
-
-- [how-to-check-if-string-input-is-a-number](https://stackoverflow.com/questions/5424716/how-to-check-if-string-input-is-a-number)
+- [itertools-in-python3](https://www.geeksforgeeks.org/itertools-in-python3/#:~:text=Itertools%20is%20a%20module%20in,combination%20to%20form%20iterator%20algebra.)
 
 <hr>
 <hr>
@@ -35,14 +42,20 @@
 
 ### Assignment
 
-- [✅Solve Coding Bat problem (Close_far_problem)]()
-- 🔄Start Milestone project 1 handson add methods on it :
+- [✅Solve Coding Bat problem (Close_far_problem)](https://github.com/sp18-interns/chirag-intern/blob/main/03-June-2022/Coding%20Bat%20Problem/close_far_problem.png)
+
+- 🔄Working on Milestone project-1(Tic-Tac-Toe)
 
 ```
-1. display_board
-2. player_input
-3. place_mark
+Add methods on it :
+- full_board_check()
+- player_choice()
+- replay()
 ```
+
+- Helped one of my friend on git commands
+- Tuples
+- Lecture 8 from CSCI series
 
 ### Doubts
 
@@ -50,4 +63,4 @@
 
 ### Links Read
 
--
+- [Tuples](https://www.programiz.com/python-programming/tuple)
