@@ -49,8 +49,8 @@ Decorators are one of the most helpful and powerful tools of Python. These are u
 
 ### Assignment
 
-- [✅Solve HackerRank problem(itertools.product()\_problem)]()
-- [✅Solve Coding Bat problem (Close_far_problem)]()
+- [✅Solve HackerRank problem(itertools-combinations-problem)](https://github.com/sp18-interns/chirag-intern/blob/main/06-June-2022/HackerRank/itertools-combinations-problem.png)
+- [✅Solve Coding Bat problem (make_chocolate_problem)](https://github.com/sp18-interns/chirag-intern/blob/main/06-June-2022/Coding_Bat/make_chocolate_problem.png)
 
 - ✅Practice Lecture 9 from CSCI series
 - ✅Read Selection Sorting
