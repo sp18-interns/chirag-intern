@@ -35,10 +35,10 @@
 
 ### Assignment
 
-- [✅Solve HackerRank problem(exception-problem)](https://github.com/sp18-interns/chirag-intern/blob/main/06-June-2022/HackerRank/itertools-combinations-problem.png)
+- [✅Solve HackerRank problem(exception-problem)](https://github.com/sp18-interns/chirag-intern/blob/main/07-June-2022/HackerRank/exceptions-problem.png)
 
 - ✅Practice Lecture 10 from CSCI series
-- [✅Write Code on Selection Sort]()
+- [✅Write Code on Selection Sort](https://github.com/sp18-interns/chirag-intern/tree/main/07-June-2022/Selection%20Sort)
 
 ### Doubts
 
