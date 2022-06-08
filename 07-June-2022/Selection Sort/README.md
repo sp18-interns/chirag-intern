@@ -6,9 +6,12 @@
 
 <hr>
 <hr>
+
 ## Steps to understand the selection sorting :
+
 <hr>
 <hr>
+
 ### [30, 10, 12, 8, 15, 1]
 
 ### Step - 1: Get the length of the array.
